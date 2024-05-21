@@ -10,7 +10,7 @@
 https://confluent.cloud/signup
 ```
 <div align="center" padding=25px>
-    <img src="img/page1.png" width=75% height=75%>
+    <img src="img/page1-1.png" width=75% height=75%>
 </div>
 
 2. Fill all the blank and click start free
